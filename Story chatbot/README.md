@@ -190,16 +190,16 @@ The application includes multiple layers of content filtering:
 Streamlit automatically provides detailed error logging. Check the terminal output for debugging information.
 ### 📸 Screenshots
 ### 1. Home Page – Story Chatbot UI
-![Home Page](scr)
+![Home Page](application_screenshot/Screenshot%202025-10-02%20101552.png)
 
 ### 2. Generated Story Output  
-![Generated Story](screenshot/Screenshot%202025-10-02%20101607.png)
+![Generated Story](application_screenshot/Screenshot%202025-10-02%20101607.png)
 
 ### 3. Raw Content View (Markdown Output)  
-![Raw Content](screenshot/Screenshot%202025-10-02%20101618.png)
+![Raw Content](application_screenshot/Screenshot%202025-10-02%20101618.png)
 
 ### 4. Configuration Options – Model, Genre, Age, Parameters  
-![Configuration](screenshot/Screenshot%202025-10-02%20101647.png)
+![Configuration](application_screenshot/Screenshot%202025-10-02%20101647.png)
 
 
 ## 🤝 Contributing
