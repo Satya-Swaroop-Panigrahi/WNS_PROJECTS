@@ -188,6 +188,19 @@ The application includes multiple layers of content filtering:
 
 ### Debug Mode
 Streamlit automatically provides detailed error logging. Check the terminal output for debugging information.
+### 📸 Screenshots
+### 1. Home Page – Story Chatbot UI
+![Home Page](scr)
+
+### 2. Generated Story Output  
+![Generated Story](screenshot/Screenshot%202025-10-02%20101607.png)
+
+### 3. Raw Content View (Markdown Output)  
+![Raw Content](screenshot/Screenshot%202025-10-02%20101618.png)
+
+### 4. Configuration Options – Model, Genre, Age, Parameters  
+![Configuration](screenshot/Screenshot%202025-10-02%20101647.png)
+
 
 ## 🤝 Contributing
 
@@ -201,21 +214,3 @@ Streamlit automatically provides detailed error logging. Check the terminal outp
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- OpenAI for GPT models and DALL-E
-- Groq for fast LLM inference
-- Google for Gemini models
-- SerpAPI for web search capabilities
-- React and Flask communities
-
-## 📞 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review API documentation
-3. Create an issue in the repository
-
----
-
-**Built with ❤️ using Python, Streamlit, and AI**
